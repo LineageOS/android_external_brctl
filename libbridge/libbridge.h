@@ -21,6 +21,7 @@
 
 #include <sys/socket.h>
 #include <linux/if.h>
+#include <linux/in6.h>
 #include <linux/if_bridge.h>
 #ifdef FEATURE_ANDROID
 #include <sys/time.h>
